@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: adb48952807d24ca9bf956c8ed112085
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8350943100985836764
+    second: picopark_0
+  - first:
+      213: -4779801568598112802
+    second: picopark_1
+  - first:
+      213: -7156975257945734078
+    second: picopark_2
+  - first:
+      213: -3012517354789059363
+    second: picopark_3
+  - first:
+      213: 8091354635173412374
+    second: picopark_4
+  - first:
+      213: 2416926168849429992
+    second: picopark_5
+  - first:
+      213: -9003883656520917733
+    second: picopark_6
+  - first:
+      213: 1315083681396742988
+    second: picopark_7
+  - first:
+      213: 5852414583173966043
+    second: picopark_8
+  - first:
+      213: -2290338079542662693
+    second: picopark_9
+  - first:
+      213: -3971837447332689411
+    second: picopark_10
+  - first:
+      213: 1445217048890605279
+    second: picopark_11
+  - first:
+      213: 8067332260565464279
+    second: picopark_12
+  - first:
+      213: 614096772203063093
+    second: picopark_13
+  - first:
+      213: 5091081196908843760
+    second: picopark_14
+  - first:
+      213: 2774669848034569231
+    second: picopark_15
+  - first:
+      213: -1779652438805213656
+    second: picopark_16
+  - first:
+      213: -7979294931525617730
+    second: picopark_17
+  - first:
+      213: -4998574205470871621
+    second: picopark_18
+  - first:
+      213: -8153288365414464208
+    second: picopark_19
+  - first:
+      213: 1390503812907031882
+    second: picopark_20
+  - first:
+      213: -8692551217647392965
+    second: picopark_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: picopark_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd482c1518284e370800000000000000
+      internalID: 8350943100985836764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 98
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5cade3ccbbaadb0800000000000000
+      internalID: -4779801568598112802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 98
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24482e31ce05dac90800000000000000
+      internalID: -7156975257945734078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 98
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd449144d636136d0800000000000000
+      internalID: -3012517354789059363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 98
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eb83dbb244a4070800000000000000
+      internalID: 8091354635173412374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 98
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5bd9e8b85aa8120800000000000000
+      internalID: 2416926168849429992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_6
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 98
+        width: 83
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5872442, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d102ed487cb0380800000000000000
+      internalID: -9003883656520917733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_7
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 98
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bd09ff3ad104210800000000000000
+      internalID: 1315083681396742988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_8
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 98
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd866645e04f73150800000000000000
+      internalID: 5852414583173966043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_9
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 98
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd92f41c6a51730e0800000000000000
+      internalID: -2290338079542662693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_10
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 98
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df90426a2e231e8c0800000000000000
+      internalID: -3971837447332689411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde7676bf317e0410800000000000000
+      internalID: 1445217048890605279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4bd0cc2fbe4ff60800000000000000
+      internalID: 8067332260565464279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537a0ecb2c5b58800800000000000000
+      internalID: 614096772203063093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f21c68ff5727a640800000000000000
+      internalID: 5091081196908843760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c6615a68b918620800000000000000
+      internalID: 2774669848034569231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e8b5139876d47e0800000000000000
+      internalID: -1779652438805213656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_17
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 0
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb737503989d34190800000000000000
+      internalID: -7979294931525617730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_18
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf6a736e3f71aab0800000000000000
+      internalID: -4998574205470871621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035452cfd63b9de80800000000000000
+      internalID: -8153288365414464208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_20
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d5623c9df0c4310800000000000000
+      internalID: 1390503812907031882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picopark_21
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37ec3009badd5780800000000000000
+      internalID: -8692551217647392965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0d3e1c5f948c49c19537d039132fa76
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      picopark_0: 8350943100985836764
+      picopark_1: -4779801568598112802
+      picopark_10: -3971837447332689411
+      picopark_11: 1445217048890605279
+      picopark_12: 8067332260565464279
+      picopark_13: 614096772203063093
+      picopark_14: 5091081196908843760
+      picopark_15: 2774669848034569231
+      picopark_16: -1779652438805213656
+      picopark_17: -7979294931525617730
+      picopark_18: -4998574205470871621
+      picopark_19: -8153288365414464208
+      picopark_2: -7156975257945734078
+      picopark_20: 1390503812907031882
+      picopark_21: -8692551217647392965
+      picopark_3: -3012517354789059363
+      picopark_4: 8091354635173412374
+      picopark_5: 2416926168849429992
+      picopark_6: -9003883656520917733
+      picopark_7: 1315083681396742988
+      picopark_8: 5852414583173966043
+      picopark_9: -2290338079542662693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
