@@ -3,6 +3,9 @@ using Unity.Netcode;
 
 public class TrapDoor : NetworkBehaviour
 {
+    /// <summary>
+    /// allows for a game object trap door to slide open when the other player steps on the pressure plate 
+    /// </summary>
     public NetworkVariable<bool> isOpen = new NetworkVariable<bool>(false);
 
     private Collider2D col;
